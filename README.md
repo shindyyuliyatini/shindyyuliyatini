@@ -1,23 +1,27 @@
-## Hi there 👋
-
-<!--
-**shindyyuliyatini/shindyyuliyatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Halo, Saya Shindy Yuliyatini!
 
 ![Profile 
 Views](https://komarev.com/ghpvc/?username=shindyyuliyatini&color=blue)
 
 ## 🚀 Tentang Saya
-Saya adalah mahasiswa yang sedang belajar **Git & GitHub** dari dasar 
-hingga mahir. Saya percaya bahwa belajar adalah perjalanan seumur hidup!
+Saya adalah seorang pembelajar yang sedang belajar **Full-Stack 
+Development** dan 
+**Data Science**. Saya percaya bahwa teknologi adalah alat untuk 
+menciptakan dampak positif bagi masyarakat.
+
+- 🌱 Saat ini saya sedang belajar: **JavaScript, React, dan Python**
+- 👯 Saya ingin berkolaborasi di: **Proyek open source berbasis web**
+- 💬 Tanyakan saya tentang: **Git, GitHub, HTML, CSS, JavaScript, Ai 
+Automation**
+- 📫 Cara menghubungi saya: shindy7yuliyatini@gmail.com
 
 ## 🛠️ Skill
 | Kategori | Skill |
 |----------|-------|
+| Frontend | HTML, CSS, JavaScript |
 | Version Control | Git, GitHub |
-| Markdown | Dokumentasi |
-| Frontend | HTML, CSS (learning) |
+| Data Science | Python (pandas, numpy) |
+| Tools | VS Code, GitHub Pages | Ai Automation |
 
 ## 📊 Statistik GitHub
 ![GitHub 
@@ -29,10 +33,10 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shindyyuli
 ## 📚 Proyek yang Saya Kerjakan
 | Proyek | Deskripsi | Link |
 |--------|-----------|------|
-| Proyek Pertama | Repository latihan Git | 
+| Proyek Pertama | Repository latihan Git & GitHub | 
 [Link](https://github.com/shindyyuliyatini/proyek-pertama) |
-| Website Portofolio | Hosting di GitHub Pages | 
-[Link](https://shindyyuliyatini.github.io/proyek-pertama/) |
+| Website Portofolio | Website portofolio pribadi | 
+|
 
 ## 📫 Hubungi Saya
 - GitHub: [shindyyuliyatini](https://github.com/shindyyuliyatini)
